@@ -1,0 +1,32 @@
+body {
+  background-image: url('https://i.redd.it/ncm4y1jhj0151.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+label {
+  color: white;
+}
+
+input {
+  color: white !important;
+  background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+input::placeholder {
+  color: rgba(255, 255, 255, 0.7) !important;
+}
+
+h3 {
+  color: white !important;
+}
+
+summary {
+  color: white;
+}
+
+details {
+  color: white;
+}
